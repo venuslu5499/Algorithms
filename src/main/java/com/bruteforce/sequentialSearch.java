@@ -38,8 +38,8 @@ public class sequentialSearch {
 
         int[] num = {5, 4, 3, 2, 1};
 
-        System.out.println("Version 1:" +seq.version1(num, 0));
-        System.out.println("Version 2:" +seq.version2(num, 9));;
+        System.out.println("Version 1: " +seq.version1(num, 0));
+        System.out.println("Version 2: " +seq.version2(num, 9));
 
 
     }
